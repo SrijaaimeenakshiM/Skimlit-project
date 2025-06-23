@@ -84,8 +84,8 @@ You can customize the dataset or use a publicly available tokenized medical abst
 Skimlit-project/
 │
 ├── README.txt              # Project documentation
-├── skimlit_project.ipynb   # Jupyter Notebook containing the full project
-└── dataset/                # Folder to store datasets if required
+└── skimlit_project.ipynb   # Jupyter Notebook containing the full project
+
 ```
 
 ---
